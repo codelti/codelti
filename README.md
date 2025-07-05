@@ -42,21 +42,8 @@ Con más de 9 años de experiencia construyendo aplicaciones web escalables y so
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <br>
-  <br>
+  <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass,laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch,mysql,postgresql,mongodb,redis,sqlite,docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx" />
+  <br><br>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />

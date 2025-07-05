@@ -39,29 +39,20 @@ Con más de 9 años de experiencia construyendo aplicaciones web escalables y so
   <img src="https://img.shields.io/badge/🚀%20TRABAJO%20REMOTO-2196F3?style=for-the-badge&logoColor=white&labelColor=2196F3" alt="Trabajo remoto" />
 </div>
 
-## 🛠️ Stack Tecnológico y Especialización
+## 🛠️ Stack Tecnológico
 
-### 🎨 Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass" />
 </div>
-
-### ⚙️ Backend e IA
 <div align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch" />
 </div>
-
-### 🗄️ Bases de Datos
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
 </div>
-
-### 🚀 DevOps y Nube
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx" />
 </div>
-
-### 🤖 IA y Machine Learning
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
   <br>
@@ -139,7 +130,6 @@ DevOps e Infraestructura:
   - "Containerización con Docker y orquestación"
   - "Despliegue en AWS, GCP y Azure"
   - "CI/CD con GitHub Actions y Jenkins"
-  - "Kubernetes para orquestación de contenedores"
   - "Monitoreo y logging de aplicaciones"
 ```
 

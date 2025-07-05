@@ -25,12 +25,34 @@
   
 **💻 Full Stack Developer & AI Specialist from México**
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/⚡%209+%20Years-Experience-A9FEF7?style=for-the-badge&logoColor=black&labelColor=0D1117&logo=lightning" />
-  <img src="https://img.shields.io/badge/🚀%20Enterprise-Solutions-6366F1?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=rocket" />
-  <img src="https://img.shields.io/badge/🤖%20AI%20Expert-Integration-FF6B35?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=robot" />
-  <img src="https://img.shields.io/badge/☁️%20Cloud-Native-28ca42?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=icloud" />
+<div align="center">
+  <table style="border: 3px solid transparent; background: linear-gradient(45deg, #A9FEF7, #6366F1, #FF6B35, #28ca42) border-box; border-radius: 15px; padding: 0;">
+    <tr style="background: linear-gradient(45deg, rgba(169,254,247,0.1), rgba(99,102,241,0.1), rgba(255,107,53,0.1), rgba(40,202,66,0.1)); border-radius: 12px;">
+      <td align="center" style="padding: 15px 20px; border-right: 1px solid rgba(169,254,247,0.3);">
+        <div style="font-size: 20px;">⚡</div>
+        <div style="font-weight: bold; color: #A9FEF7; font-size: 16px;">9+ Years</div>
+        <div style="color: #888; font-size: 12px;">Experience</div>
+      </td>
+      <td align="center" style="padding: 15px 20px; border-right: 1px solid rgba(99,102,241,0.3);">
+        <div style="font-size: 20px;">🚀</div>
+        <div style="font-weight: bold; color: #6366F1; font-size: 16px;">Enterprise</div>
+        <div style="color: #888; font-size: 12px;">Solutions</div>
+      </td>
+      <td align="center" style="padding: 15px 20px; border-right: 1px solid rgba(255,107,53,0.3);">
+        <div style="font-size: 20px;">🤖</div>
+        <div style="font-weight: bold; color: #FF6B35; font-size: 16px;">AI Expert</div>
+        <div style="color: #888; font-size: 12px;">Integration</div>
+      </td>
+      <td align="center" style="padding: 15px 20px;">
+        <div style="font-size: 20px;">☁️</div>
+        <div style="font-weight: bold; color: #28ca42; font-size: 16px;">Cloud</div>
+        <div style="color: #888; font-size: 12px;">Native</div>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
 
 `Laravel` `Python` `React` `AI` `AWS` `Docker`
 

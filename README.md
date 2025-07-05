@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 💻 Ingeniero en Sistemas y Desarrollador Full Stack e IA
+**💻 Ingeniero en Sistemas y Desarrollador Full Stack e IA**
 
 Con más de 9 años de experiencia construyendo aplicaciones web escalables y soluciones potenciadas por IA. Especializado en desarrollo full-stack con experiencia en frameworks modernos y tecnologías en la nube. Actualmente ubicado en México.
 
@@ -22,8 +22,6 @@ Con más de 9 años de experiencia construyendo aplicaciones web escalables y so
 </div>
 
 <br>
-
-**🎯 Experiencia Principal:** `Laravel` `Python` `React` `Integración de IA` `AWS` `Docker`
 
 **🌐 Idiomas:** Español (Nativo) | Inglés (Avanzado)
 

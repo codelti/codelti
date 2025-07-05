@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;Building+intelligent+web+applications;From+México+with+❤️;Ready+for+your+next+project!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,18 +16,31 @@
   <img src="https://img.shields.io/badge/🇲🇽-México-28a745?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/💼-Available_for_Hire-00d4aa?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖-AI_Specialist-6366f1?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡-9+_Years_Experience-ff6b35?style=flat-square&logoColor=white" />
 </div>
 
 <br>
 
-**Full Stack Developer & AI Specialist** passionate about transforming ideas into intelligent digital solutions. 
+<div align="center">
+  <svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#A9FEF7;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#6366F1;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FF6B35;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="400" height="120" fill="url(#grad1)" rx="15" opacity="0.1"/>
+    <text x="200" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#A9FEF7">Full Stack Developer & AI Specialist</text>
+    <text x="200" y="65" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">🚀 9+ years building large-scale projects</text>
+    <text x="200" y="85" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">🎯 Expert in modern web architectures</text>
+    <text x="200" y="105" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">🤖 AI integration specialist</text>
+  </svg>
+</div>
 
-🔹 **Backend Expert:** Laravel, Django, NestJS  
-🔹 **Frontend Specialist:** React, Vue, Nuxt  
-🔹 **AI Integration:** OpenAI, TensorFlow, NLP  
-🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes  
+<br>
 
-> *"Clean code, scalable architecture, AI-powered features"*
+**Tech Stack:** `Laravel` `Django` `NestJS` `React` `Vue` `OpenAI` `AWS` `Docker`
 
 ## 💼 Available for Hire
 

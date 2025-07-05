@@ -9,23 +9,25 @@
 # 👋 ¡Hola! Soy un Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Laravel+%7C+Python+%7C+React+%7C+Vue+%7C+Nuxt;Creando+soluciones+innovadoras;Building+amazing+web+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Python+%7C+NestJS+%7C+React+%7C+Nuxt;Building+intelligent+web+applications;From+México+with+❤️" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://komarev.com/ghpvc/?username=codelti&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </div>
 
 ## 🚀 Sobre mí
 
 ```javascript
 const developer = {
-    name: "Tu Nombre",
-    location: "Tu Ciudad, País",
-    role: "Full Stack Developer",
-    specialization: ["Backend", "Frontend", "Database Design"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    name: "Codelti",
+    location: "México",
+    role: "Full Stack Developer & AI Specialist",
+    specialization: ["Backend", "Frontend", "Database Design", "AI Integration", "DevOps"],
+    currentFocus: "Building intelligent web applications with AI",
+    techStack: ["Laravel", "Python", "NestJS", "React", "Nuxt", "AI/ML"],
+    passion: "Transforming ideas into intelligent solutions",
+    funFact: "I train AI models and debug with console.log! 🤖😄"
 };
 ```
 
@@ -33,12 +35,12 @@ const developer = {
 
 ### 🎨 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,js,ts,html,css,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass" />
 </div>
 
-### ⚙️ Backend
+### ⚙️ Backend & AI
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,python,django,flask,fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch" />
 </div>
 
 ### 🗄️ Bases de Datos
@@ -46,116 +48,139 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
 </div>
 
-### 🔧 Herramientas & DevOps
+### � DevOps & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx,apache,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx" />
 </div>
 
-## 📊 Estadísticas GitHub
-
+### 🤖 AI & Machine Learning
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=dark&hide_border=false" />
-</div>
-
-## 🏆 Trofeos GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuusuario&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-## 📈 Gráfico de Contribuciones
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=react-dark&hide_border=true" />
-</div>
-
-## 💻 Proyectos Destacados
+## � Proyectos & Soluciones
 
 <div align="center">
-  <a href="https://github.com/tuusuario/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto1&theme=dark" />
-  </a>
-  <a href="https://github.com/tuusuario/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=proyecto2&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/🚀-Proyectos%20Activos-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖-AI%20Integrations-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐-Full%20Stack-orange?style=for-the-badge" />
 </div>
 
-## 🌟 Tecnologías Favoritas
+### 🔥 Tipos de proyectos que desarrollo:
+- **🤖 Aplicaciones con IA:** Chatbots, análisis de datos, recomendaciones
+- **🌐 Plataformas Web:** E-commerce, SaaS, CMS personalizados
+- **� APIs Robustas:** RESTful y GraphQL con documentación completa
+- **☁️ Soluciones Cloud:** Arquitecturas escalables y seguras
+- **📊 Dashboards:** Analítica en tiempo real y visualización de datos
+
+## 🌟 Especialidades Técnicas
 
 <table align="center">
 <tr>
-<td align="center" width="96">
+<td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-  <br>Laravel
+  <br><strong>Laravel</strong>
+  <br><small>APIs & Backend</small>
 </td>
-<td align="center" width="96">
+<td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <br>Python
+  <br><strong>Python</strong>
+  <br><small>AI & ML</small>
 </td>
-<td align="center" width="96">
+<td align="center" width="120">
+  <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+  <br><strong>NestJS</strong>
+  <br><small>Enterprise APIs</small>
+</td>
+<td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <br>React
+  <br><strong>React</strong>
+  <br><small>Interactive UIs</small>
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-  <br>Vue.js
-</td>
-<td align="center" width="96">
+<td align="center" width="120">
   <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt" />
-  <br>Nuxt.js
+  <br><strong>Nuxt</strong>
+  <br><small>SSR & Performance</small>
 </td>
 </tr>
 </table>
 
-## 🎯 Experiencia
+## 🎯 Experiencia & Especialización
 
 ```yaml
-Frontend:
-  - "React.js con hooks y context API"
-  - "Vue.js con Vuex y Vue Router"
-  - "Nuxt.js para SSR y generación estática"
-  - "TypeScript para tipado estático"
-  - "Tailwind CSS y CSS frameworks"
-
-Backend:
+Backend Development:
   - "Laravel con Eloquent ORM y APIs RESTful"
-  - "Python con Django y Flask"
-  - "Arquitectura MVC y patrones de diseño"
-  - "Autenticación JWT y OAuth"
-  - "APIs GraphQL"
+  - "Python con Django, Flask y FastAPI"
+  - "NestJS con TypeScript para aplicaciones enterprise"
+  - "Arquitectura de microservicios"
+  - "Autenticación JWT, OAuth y sistemas de seguridad"
 
-Database:
-  - "MySQL y PostgreSQL"
-  - "MongoDB para NoSQL"
-  - "Redis para caché"
-  - "Diseño de bases de datos relacionales"
-  - "Optimización de consultas"
+Frontend Development:
+  - "React con hooks, context API y Next.js"
+  - "Nuxt.js para SSR, SPA y generación estática"
+  - "Vue.js con Vuex y Vue Router"
+  - "TypeScript para desarrollo robusto"
+  - "Tailwind CSS y diseño responsive"
+
+Database Management:
+  - "MySQL y MariaDB para aplicaciones relacionales"
+  - "PostgreSQL para aplicaciones complejas"
+  - "MongoDB para soluciones NoSQL"
+  - "Redis para caché y sesiones"
+  - "Optimización de consultas y performance"
+
+AI & Machine Learning:
+  - "Integración de OpenAI GPT y Claude"
+  - "Desarrollo de chatbots inteligentes"
+  - "Procesamiento de lenguaje natural (NLP)"
+  - "Computer Vision y análisis de imágenes"
+  - "Modelos de recomendación y predicción"
+
+DevOps & Infrastructure:
+  - "Docker y containerización"
+  - "AWS, GCP y Azure cloud deployment"
+  - "CI/CD con GitHub Actions y Jenkins"
+  - "Kubernetes para orquestación"
+  - "Monitoreo y logging de aplicaciones"
 ```
 
 ## 📫 Conecta conmigo
 
 <div align="center">
-  <a href="mailto:tu@email.com">
+  <a href="mailto:contact@codelti.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tuusuario">
+  <a href="https://linkedin.com/in/codelti">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/tuusuario">
+  <a href="https://twitter.com/codelti">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://tuportfolio.com">
+  <a href="https://codelti.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
-## ⚡ Fun Facts
+## 🖤 En Memoria
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<div align="center" style="background: linear-gradient(45deg, #000, #333); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/●-Recordando-black?style=for-the-badge&color=000000" />
+  <br><br>
+  <div style="color: white; font-style: italic; font-size: 18px;">
+    <strong>"Si puedes imaginarlo, puedes programarlo"</strong>
+    <br>
+    <small>- Alejandro Taboada ✝️</small>
+    <br>
+    <small style="opacity: 0.8;">Un crack de la programación que siempre recordaremos</small>
+  </div>
+  <br>
+  <img src="https://img.shields.io/badge/🖤-Siempre%20en%20nuestros%20corazones-black?style=for-the-badge" />
 </div>
 
 ---
@@ -165,9 +190,9 @@ Database:
 </div>
 
 <div align="center">
-  <i>💡 "El código es poesía escrita en lógica"</i>
+  <i>💡 "La IA no reemplaza a los desarrolladores, potencia su creatividad"</i>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Gracias+por+visitar+mi+perfil!;Let's+build+something+amazing+together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=¡Gracias+por+visitar+mi+perfil!;Let's+build+intelligent+solutions+together!;Saludos+desde+México+🇲🇽" />
 </div>

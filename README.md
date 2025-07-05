@@ -77,21 +77,6 @@ const codelti = {
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
-## 💼 Projects & Solutions
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Active%20Projects-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤖-AI%20Integrations-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌐-Full%20Stack-orange?style=for-the-badge" />
-</div>
-
-### 🔥 What I Deliver:
-- **🤖 AI-Powered Applications:** Chatbots, data analysis, recommendation engines
-- **🌐 Modern Web Platforms:** E-commerce, SaaS, custom CMS solutions
-- **⚡ Robust APIs:** RESTful and GraphQL with complete documentation
-- **☁️ Cloud Solutions:** Scalable and secure architectures
-- **📊 Real-Time Dashboards:** Analytics and data visualization systems
-
 ## 🌟 Core Specializations
 
 <table align="center">
@@ -199,16 +184,6 @@ DevOps & Infrastructure:
   </div>
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <i>💡 "AI doesn't replace developers, it amplifies their creativity"</i>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+intelligent+solutions+together!;Ready+to+collaborate+from+México+🇲🇽" />
 </div>

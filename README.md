@@ -25,27 +25,11 @@
   
 **💻 Full Stack Developer & AI Specialist from México**
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <div style="font-size: 24px;">⚡</div>
-    <div style="font-weight: bold; color: #A9FEF7;">9+ Years</div>
-    <div style="font-size: 12px; opacity: 0.8;">Experience</div>
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 24px;">🚀</div>
-    <div style="font-weight: bold; color: #6366F1;">Enterprise</div>
-    <div style="font-size: 12px; opacity: 0.8;">Solutions</div>
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 24px;">🤖</div>
-    <div style="font-weight: bold; color: #FF6B35;">AI Expert</div>
-    <div style="font-size: 12px; opacity: 0.8;">Integration</div>
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 24px;">☁️</div>
-    <div style="font-weight: bold; color: #28ca42;">Cloud</div>
-    <div style="font-size: 12px; opacity: 0.8;">Native</div>
-  </div>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/⚡%209+%20Years-Experience-A9FEF7?style=for-the-badge&logoColor=black&labelColor=0D1117&logo=lightning" />
+  <img src="https://img.shields.io/badge/🚀%20Enterprise-Solutions-6366F1?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=rocket" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20Expert-Integration-FF6B35?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=robot" />
+  <img src="https://img.shields.io/badge/☁️%20Cloud-Native-28ca42?style=for-the-badge&logoColor=white&labelColor=0D1117&logo=icloud" />
 </div>
 
 `Laravel` `Python` `React` `AI` `AWS` `Docker`

@@ -153,18 +153,24 @@ DevOps & Infrastructure:
 ## 📫 Conecta conmigo
 
 <div align="center">
-  <a href="mailto:contact@codelti.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:admin@codelti.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/codelti">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/codelti" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/codelti">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/codelti" target="_blank">
+    <img src="https://img.shields.io/badge/🐦%20X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X (Twitter)" />
   </a>
-  <a href="https://codelti.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://codelti.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF6B35" alt="Portfolio" />
   </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/🇲🇽%20México-028A0F?style=flat-square&logoColor=white" alt="México" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20Specialist-6366F1?style=flat-square&logoColor=white" alt="AI Specialist" />
+  <img src="https://img.shields.io/badge/⚡%20Full%20Stack-F59E0B?style=flat-square&logoColor=white" alt="Full Stack" />
 </div>
 
 ## 🖤 En Memoria
@@ -179,11 +185,8 @@ DevOps & Infrastructure:
     <br>
     <small style="opacity: 0.8;">Un crack de la programación que siempre recordaremos</small>
   </div>
-  <br>
-  <img src="https://img.shields.io/badge/🖤-Siempre%20en%20nuestros%20corazones-black?style=for-the-badge" />
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
@@ -191,8 +194,4 @@ DevOps & Infrastructure:
 
 <div align="center">
   <i>💡 "La IA no reemplaza a los desarrolladores, potencia su creatividad"</i>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=¡Gracias+por+visitar+mi+perfil!;Let's+build+intelligent+solutions+together!;Saludos+desde+México+🇲🇽" />
 </div>

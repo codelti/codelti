@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=28,29,28,29&text=La%20IA%20me%20dio%20super%20poderes&reversal=true&textBg=false&section=header&fontAlign=52&animation=fadeIn&fontAlignY=36&fontSize=50&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlign=66&descAlignY=53&fontColor=b5b3b5"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=28,29,28,29&text=La%20IA%20me%20dio%20super%20poderes&fontSize=50&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=50&fontAlignY=36&descAlign=64&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -10,7 +10,9 @@
 
 <div align="center">
 
-**💻 Ingeniero en Sistemas y Desarrollador Full Stack e IA**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=💻%20Ingeniero%20en%20Sistemas%20y%20Desarrollador%20Full%20Stack%20e%20IA&fontSize=25" />
+</div>
 
 Llevo más de 9 años creando aplicaciones web que realmente funcionan y explorando cómo la IA puede hacer nuestras vidas más fáciles (cuando no tiene alucinaciones). Me encanta el desarrollo full-stack porque me permite ver el panorama completo - desde el backend que nadie ve hasta la interfaz que todos critican. 
 

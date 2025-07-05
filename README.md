@@ -95,44 +95,6 @@ Con más de 9 años de experiencia construyendo aplicaciones web escalables y so
 </tr>
 </table>
 
-## 🎯 Experiencia Profesional
-
-```yaml
-Desarrollo Backend:
-  - "Laravel con Eloquent ORM y APIs RESTful"
-  - "Python con Django, Flask y FastAPI"
-  - "NestJS con TypeScript para aplicaciones empresariales"
-  - "Arquitectura de microservicios y patrones de diseño"
-  - "JWT, OAuth y sistemas de seguridad avanzados"
-
-Desarrollo Frontend:
-  - "React con hooks, context API y Next.js"
-  - "Nuxt.js para SSR, SPA y generación estática"
-  - "Vue.js con Vuex y Vue Router"
-  - "TypeScript para desarrollo robusto"
-  - "Tailwind CSS y diseño responsivo"
-
-Gestión de Bases de Datos:
-  - "MySQL y MariaDB para aplicaciones relacionales"
-  - "PostgreSQL para estructuras de datos complejas"
-  - "MongoDB para soluciones NoSQL"
-  - "Redis para caché y gestión de sesiones"
-  - "Optimización de consultas y ajuste de rendimiento"
-
-IA y Machine Learning:
-  - "Integración de APIs de OpenAI GPT y Claude"
-  - "Desarrollo de chatbots inteligentes"
-  - "Procesamiento de Lenguaje Natural (NLP)"
-  - "Visión por computadora y análisis de imágenes"
-  - "Modelos de recomendación y predicción"
-
-DevOps e Infraestructura:
-  - "Containerización con Docker y orquestación"
-  - "Despliegue en AWS, GCP y Azure"
-  - "CI/CD con GitHub Actions y Jenkins"
-  - "Monitoreo y logging de aplicaciones"
-```
-
 ## 📫 Conectemos y Colaboremos
 
 <div align="center">

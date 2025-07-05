@@ -10,9 +10,7 @@
 
 <div align="center">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=2,4,26&text=Soy%20Ingeniero%20en%20sistemas%20y%20Desarrollador%20full%20stack%20e%20IA&fontSize=20&descAlignY=50&fontAlignY=49&descAlign=64&animation=fadeIn&fontColor=ffffff&section=header&fontAlign=49"/>
-</div>
+**🧑‍💻 Ingeniero en Sistemas old school(antes del ChatGPT)**
 
 Llevo más de 9 años creando aplicaciones web que realmente funcionan y explorando cómo la IA puede hacer nuestras vidas más fáciles (cuando no tiene alucinaciones). Me encanta el desarrollo full-stack porque me permite ver el panorama completo - desde el backend que nadie ve hasta la interfaz que todos critican. 
 

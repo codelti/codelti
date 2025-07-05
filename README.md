@@ -22,23 +22,75 @@
 <br>
 
 <div align="center">
-  <svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#21262d;stop-opacity:1" />
+      </linearGradient>
+      <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" style="stop-color:#A9FEF7;stop-opacity:1" />
         <stop offset="50%" style="stop-color:#6366F1;stop-opacity:1" />
         <stop offset="100%" style="stop-color:#FF6B35;stop-opacity:1" />
       </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <feMerge> 
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
     </defs>
-    <rect width="400" height="120" fill="url(#grad1)" rx="15" opacity="0.1"/>
-    <text x="200" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#A9FEF7">Full Stack Developer & AI Specialist</text>
-    <text x="200" y="65" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">🚀 9+ years building large-scale projects</text>
-    <text x="200" y="85" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">🎯 Expert in modern web architectures</text>
-    <text x="200" y="105" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffff">🤖 AI integration specialist</text>
+    
+    <!-- Background -->
+    <rect width="600" height="200" fill="url(#bgGradient)" rx="20" stroke="url(#textGradient)" stroke-width="2"/>
+    
+    <!-- Code-like decoration -->
+    <circle cx="30" cy="30" r="8" fill="#ff5f57"/>
+    <circle cx="55" cy="30" r="8" fill="#ffbd2e"/>
+    <circle cx="80" cy="30" r="8" fill="#28ca42"/>
+    
+    <!-- Main title -->
+    <text x="300" y="80" font-family="'Fira Code', monospace" font-size="24" font-weight="bold" 
+          text-anchor="middle" fill="url(#textGradient)" filter="url(#glow)">
+      Full Stack Developer & AI Specialist
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="300" y="110" font-family="'Fira Code', monospace" font-size="16" 
+          text-anchor="middle" fill="#58a6ff" opacity="0.9">
+      Passionate about building intelligent solutions
+    </text>
+    
+    <!-- Stats -->
+    <text x="150" y="145" font-family="'Fira Code', monospace" font-size="14" 
+          text-anchor="middle" fill="#A9FEF7">
+      <tspan>⚡ 9+ Years</tspan>
+    </text>
+    
+    <text x="300" y="145" font-family="'Fira Code', monospace" font-size="14" 
+          text-anchor="middle" fill="#6366F1">
+      <tspan>🚀 Large Scale</tspan>
+    </text>
+    
+    <text x="450" y="145" font-family="'Fira Code', monospace" font-size="14" 
+          text-anchor="middle" fill="#FF6B35">
+      <tspan>🤖 AI Expert</tspan>
+    </text>
+    
+    <!-- Experience line -->
+    <text x="300" y="175" font-family="'Fira Code', monospace" font-size="12" 
+          text-anchor="middle" fill="#7c3aed" opacity="0.8">
+      From México 🇲🇽 | Enterprise Solutions | Modern Architecture
+    </text>
   </svg>
 </div>
 
 <br>
+
+**About Me:**  
+Soy un desarrollador Full Stack con **9+ años de experiencia** construyendo aplicaciones empresariales de gran escala. Me especializo en arquitecturas modernas, integración de IA y soluciones cloud-native. He trabajado en proyectos que van desde e-commerce hasta plataformas SaaS, siempre enfocándome en código limpio, escalabilidad y las últimas tecnologías.
 
 **Tech Stack:** `Laravel` `Django` `NestJS` `React` `Vue` `OpenAI` `AWS` `Docker`
 

@@ -16,18 +16,27 @@
   <img src="https://img.shields.io/badge/🇲🇽-México-28a745?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/💼-Available_for_Hire-00d4aa?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖-AI_Specialist-6366f1?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡-9+_Years_Experience-ff6b35?style=flat-square&logoColor=white" />
 </div>
 
 <br>
 
-**Full Stack Developer & AI Specialist** passionate about transforming ideas into intelligent digital solutions. 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<strong>Full Stack Developer & AI Specialist</strong><br>
+<em>Transforming ideas into intelligent digital solutions</em><br><br>
+� <strong>9+ years</strong> building large-scale projects<br>
+🎯 Expert in modern web architectures<br>
+🤖 AI integration specialist
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=codelti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff" width="100%" />
+</td>
+</tr>
+</table>
 
-🔹 **Backend Expert:** Laravel, Django, NestJS  
-🔹 **Frontend Specialist:** React, Vue, Nuxt  
-🔹 **AI Integration:** OpenAI, TensorFlow, NLP  
-🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes  
-
-> *"Clean code, scalable architecture, AI-powered features"*
+**Tech Stack:** `Laravel` `Django` `NestJS` `React` `Vue` `OpenAI` `AWS` `Docker`
 
 ## 💼 Available for Hire
 

@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=28,29,28,29&text=La%20IA%20me%20dio%20super%20poderes&reversal=true&textBg=false&section=header&fontAlign=52&animation=fadeIn&fontAlignY=36&fontSize=50&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlign=66&descAlignY=53&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=28,29,28,29&text=La%20IA%20me%20dio%20super%20poderes&reversal=true&textBg=false&section=header&fontAlign=52&animation=fadeIn&fontAlignY=36&fontSize=50&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlign=66&descAlignY=53&fontColor=b5b3b5"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=D4A574&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack+e+IA;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=b5b3b5&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack+e+IA;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí

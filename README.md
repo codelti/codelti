@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=28,29,28,29&text=La%20IA%20me%20dio%20super%20poderes&fontSize=50&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=50&fontAlignY=36&descAlign=64&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,6&text=La%20IA%20me%20dio%20super%20poderes&fontSize=50&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=50&fontAlignY=36&descAlign=64&animation=fadeIn&fontColor=ffffff"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=💻%20Ingeniero%20en%20Sistemas%20y%20Desarrollador%20Full%20Stack%20e%20IA&fontSize=25&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=2,6&text=Ingeniero%20en%20sistemas%20y%20Desarrollador%20full%20stack%20e%20IA&fontSize=15&descAlignY=50&fontAlignY=49&descAlign=64&animation=fadeIn&fontColor=ffffff&section=header&fontAlign=49"/>
 </div>
 
 Llevo más de 9 años creando aplicaciones web que realmente funcionan y explorando cómo la IA puede hacer nuestras vidas más fáciles (cuando no tiene alucinaciones). Me encanta el desarrollo full-stack porque me permite ver el panorama completo - desde el backend que nadie ve hasta la interfaz que todos critican. 
@@ -119,5 +119,5 @@ Llevo más de 9 años creando aplicaciones web que realmente funcionan y explora
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&customColorList=28,29,28,29&text=admin@codelti.com&reversal=false&textBg=false&section=footer&fontAlign=87&animation=fadeIn&fontAlignY=72&fontSize=20&descAlign=79&descAlignY=53&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2,6&text=//%20Si%20funciona,%20no%20lo%20toques.&fontSize=20&descAlignY=50&fontAlignY=74&descAlign=64&animation=fadeIn&fontColor=ffffff&section=footer&fontAlign=82" />
 </div>

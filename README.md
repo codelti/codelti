@@ -1,25 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Laravel%20|%20Python%20|%20React%20|%20Vue%20|%20Nuxt&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Python+%7C+NestJS+%7C+React+%7C+Nuxt;Building+intelligent+web+applications;From+México+with+❤️;Ready+for+your+next+project!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;Building+intelligent+web+applications;From+México+with+❤️;Ready+for+your+next+project!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;Building+intelligent+web+applications;From+México+with+❤️;Ready+for+your+next+project!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=codelti&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </div>
 
 ## 🚀 About Me
 
-```javascript
-const codelti = {
-    name: "Codelti",
-    location: "México 🇲🇽",
-    role: "Full Stack Developer & AI Specialist",
-    specialization: ["Backend APIs", "Frontend Development", "AI Integration", "DevOps", "Database Architecture"],
-    currentStatus: "Available for hire",
-    techStack: ["Laravel", "Python", "NestJS", "React", "Nuxt", "TensorFlow", "Docker"],
-    passion: "Transforming ideas into intelligent digital solutions",
-    approach: "Clean code, scalable architecture, AI-powered features"
-};
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/🇲🇽-México-28a745?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼-Available_for_Hire-00d4aa?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖-AI_Specialist-6366f1?style=flat-square&logoColor=white" />
+</div>
+
+<br>
+
+**Full Stack Developer & AI Specialist** passionate about transforming ideas into intelligent digital solutions. 
+
+🔹 **Backend Expert:** Laravel, Django, NestJS  
+🔹 **Frontend Specialist:** React, Vue, Nuxt  
+🔹 **AI Integration:** OpenAI, TensorFlow, NLP  
+🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes  
+
+> *"Clean code, scalable architecture, AI-powered features"*
 
 ## 💼 Available for Hire
 
@@ -180,6 +192,16 @@ DevOps & Infrastructure:
   </div>
 </div>
 
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <i>💡 "AI doesn't replace developers, it amplifies their creativity"</i>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+intelligent+solutions+together!;Ready+to+collaborate+from+México+🇲🇽" />
 </div>

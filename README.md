@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=La%20IA%20me%20dio%20super%20poderes&reversal=true&textBg=false&section=header&fontAlign=51&animation=fadeIn&fontAlignY=30&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=La%20IA%20me%20dio%20super%20poderes&reversal=true&textBg=false&section=header&fontAlign=51&animation=fadeIn&fontAlignY=24&fontSize=50&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62"/>
 </div>
 
 <div align="center">

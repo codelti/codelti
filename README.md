@@ -42,7 +42,7 @@ Con más de 9 años de experiencia construyendo aplicaciones web escalables y so
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass,laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch,mysql,postgresql,mongodb,redis,sqlite,docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx,vite,webpack,babel,elasticsearch,rabbitmq,postman,figma,photoshop,illustrator,firebase,supabase,prisma,sequelize,composer,npm,yarn,pnpm" />
+  <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass,laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch,mysql,postgresql,mongodb,redis,sqlite,docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx,vite,webpack,babel,elasticsearch,rabbitmq,postman,figma,photoshop,illustrator,firebase,supabase,prisma,sequelize,npm,yarn,pnpm" />
   <br><br>
 </div>
 

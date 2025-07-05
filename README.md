@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;Building+intelligent+web+applications;From+México+with+❤️;Ready+for+your+next+project!" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=codelti&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </div>
 

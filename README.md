@@ -12,7 +12,9 @@
 
 **💻 Ingeniero en Sistemas y Desarrollador Full Stack e IA**
 
-Con más de 9 años de experiencia construyendo aplicaciones web escalables y soluciones potenciadas por IA. Especializado en desarrollo full-stack con experiencia en frameworks modernos y tecnologías en la nube. Actualmente ubicado en México.
+Llevo más de 9 años creando aplicaciones web que realmente funcionan y explorando cómo la IA puede hacer nuestras vidas más fáciles (cuando no tiene alucinaciones). Me encanta el desarrollo full-stack porque me permite ver el panorama completo - desde el backend que nadie ve hasta la interfaz que todos critican. 
+
+🤖 La IA no me va a reemplazar porque tengo mas experiencia que ella.. y aparte lo tengo que debuggear.
 
 <div align="center">
   <img src="https://img.shields.io/badge/👨‍💻-Ingeniero_en_Sistemas-28a745?style=flat-square&logoColor=white" />

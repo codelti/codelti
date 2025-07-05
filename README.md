@@ -6,55 +6,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codelti&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</div>
-
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🇲🇽-México-28a745?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/💼-Available_for_Hire-00d4aa?style=flat-square&logoColor=white" />
+
+**💻 Systems Engineer & Full Stack Developer from México**
+
+Passionate Systems Engineer with 9+ years of experience building scalable web applications and AI-powered solutions. Specialized in full-stack development with expertise in modern frameworks and cloud technologies.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/�-Systems_Engineer-28a745?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/🇺🇸-Advanced_English-0066cc?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖-AI_Specialist-6366f1?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/⚡-9+_Years_Experience-ff6b35?style=flat-square&logoColor=white" />
 </div>
 
 <br>
 
-<div align="center">
-  
-**💻 Full Stack Developer & AI Specialist from México**
+**� Core Expertise:** `Laravel` `Python` `React` `AI Integration` `AWS` `Docker`
 
-<div align="center">
-  <table style="border: 3px solid transparent; background: linear-gradient(45deg, #A9FEF7, #6366F1, #FF6B35, #28ca42) border-box; border-radius: 15px; padding: 0;">
-    <tr style="background: linear-gradient(45deg, rgba(169,254,247,0.1), rgba(99,102,241,0.1), rgba(255,107,53,0.1), rgba(40,202,66,0.1)); border-radius: 12px;">
-      <td align="center" style="padding: 15px 20px; border-right: 1px solid rgba(169,254,247,0.3);">
-        <div style="font-size: 20px;">⚡</div>
-        <div style="font-weight: bold; color: #A9FEF7; font-size: 16px;">9+ Years</div>
-        <div style="color: #888; font-size: 12px;">Experience</div>
-      </td>
-      <td align="center" style="padding: 15px 20px; border-right: 1px solid rgba(99,102,241,0.3);">
-        <div style="font-size: 20px;">🚀</div>
-        <div style="font-weight: bold; color: #6366F1; font-size: 16px;">Enterprise</div>
-        <div style="color: #888; font-size: 12px;">Solutions</div>
-      </td>
-      <td align="center" style="padding: 15px 20px; border-right: 1px solid rgba(255,107,53,0.3);">
-        <div style="font-size: 20px;">🤖</div>
-        <div style="font-weight: bold; color: #FF6B35; font-size: 16px;">AI Expert</div>
-        <div style="color: #888; font-size: 12px;">Integration</div>
-      </td>
-      <td align="center" style="padding: 15px 20px;">
-        <div style="font-size: 20px;">☁️</div>
-        <div style="font-weight: bold; color: #28ca42; font-size: 16px;">Cloud</div>
-        <div style="color: #888; font-size: 12px;">Native</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-`Laravel` `Python` `React` `AI` `AWS` `Docker`
+**🌐 Languages:** Spanish (Native) | English (Advanced)
 
 </div>
 

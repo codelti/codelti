@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/developer-animation.gif" alt="Full Stack Developer Animation" width="100%" style="max-width: 800px;" />
+  <img src="./assets/available.gif" alt="Full Stack Developer Animation" width="100%" style="max-width: 800px;" />
 </div>
 
 <!-- 

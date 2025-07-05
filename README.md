@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=b5b3b5&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack+con+IA;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=b5b3b5&center=true&vCenter=true&width=940&lines=La+IA+me+dio+super+poderes;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí

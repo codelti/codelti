@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,4,26&text=Desarrollador%20Full%20Stack%20impulsado%20con%20IA&fontSize=42&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=50&fontAlignY=36&descAlign=64&animation=fadeIn&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=2,4,26&text=Desarrollador%20Full%20Stack%20con%20IA&fontSize=40&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=50&fontAlignY=36&descAlign=64&animation=fadeIn&fontColor=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=b5b3b5&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack+e+IA;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=b5b3b5&center=true&vCenter=true&width=940&lines=Desarrollador+Full+Stack+con+IA;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí

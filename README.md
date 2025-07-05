@@ -1,17 +1,9 @@
-<div align="center"><br>
-
-**Full Stack Developer & AI Specialist** passionate about transforming ideas into intelligent digital solutions.
-
-🚀 **9+ years** building large-scale projects  
-🎯 Expert in modern web architectures  
-🤖 AI integration specialist  
-☁️ Cloud & DevOps expertise  
-
-**Tech Stack:** `Laravel` `Django` `NestJS` `React` `Vue` `OpenAI` `AWS` `Docker`://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;FastAPI+%7C+Nuxt+%7C+Next.js+%7C+Tailwind+%7C+Docker;TensorFlow+%7C+OpenAI+%7C+AWS+%7C+MySQL+%7C+MongoDB;Microservices+%7C+REST+APIs+%7C+GraphQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%26+AI+Specialist;Laravel+%7C+Django+%7C+NestJS+%7C+React+%7C+Vue;Building+intelligent+web+applications;From+México+with+❤️;Ready+for+your+next+project!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,27 +16,18 @@
   <img src="https://img.shields.io/badge/🇲🇽-México-28a745?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/💼-Available_for_Hire-00d4aa?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/🤖-AI_Specialist-6366f1?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚡-9+_Years_Experience-ff6b35?style=flat-square&logoColor=white" />
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<strong>Full Stack Developer & AI Specialist</strong><br>
-<em>Transforming ideas into intelligent digital solutions</em><br><br>
-� <strong>9+ years</strong> building large-scale projects<br>
-🎯 Expert in modern web architectures<br>
-🤖 AI integration specialist
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=codelti&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=A9FEF7&text_color=ffffff" width="100%" />
-</td>
-</tr>
-</table>
+**Full Stack Developer & AI Specialist** passionate about transforming ideas into intelligent digital solutions. 
 
-**Tech Stack:** `Laravel` `Django` `NestJS` `React` `Vue` `OpenAI` `AWS` `Docker`
+🔹 **Backend Expert:** Laravel, Django, NestJS  
+🔹 **Frontend Specialist:** React, Vue, Nuxt  
+🔹 **AI Integration:** OpenAI, TensorFlow, NLP  
+🔹 **Cloud & DevOps:** AWS, Docker, Kubernetes  
+
+> *"Clean code, scalable architecture, AI-powered features"*
 
 ## 💼 Available for Hire
 

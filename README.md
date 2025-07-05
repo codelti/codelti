@@ -117,5 +117,5 @@ Llevo más de 9 años creando aplicaciones web que realmente funcionan y explora
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,5,6,7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=28,29,28,29&text=admin@codelti.com&reversal=false&textBg=false&section=footer&fontAlign=87&animation=fadeIn&fontAlignY=72&fontSize=20&descAlign=79&descAlignY=53&fontColor=ffffff" />
 </div>

@@ -41,13 +41,6 @@ Passionate Systems Engineer with 9+ years of experience building scalable web ap
   <img src="https://img.shields.io/badge/🚀%20REMOTE%20READY-2196F3?style=for-the-badge&logoColor=white&labelColor=2196F3" alt="Remote ready" />
 </div>
 
-### 🎯 What I Can Build for You:
-- **🤖 AI-Powered Applications:** Smart chatbots, recommendation systems, data analysis tools
-- **🌐 Full-Stack Web Platforms:** E-commerce, SaaS, CMS, dashboards with modern UX/UI
-- **⚡ High-Performance APIs:** RESTful and GraphQL APIs with comprehensive documentation
-- **☁️ Cloud-Native Solutions:** Scalable, secure architectures on AWS, GCP, or Azure
-- **📊 Real-Time Analytics:** Live dashboards and data visualization systems
-
 ## 🛠️ Tech Stack & Expertise
 
 ### 🎨 Frontend

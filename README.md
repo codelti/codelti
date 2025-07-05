@@ -1,5 +1,13 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
+<div align="center"><br>
+
+**Full Stack Developer & AI Specialist** passionate about transforming ideas into intelligent digital solutions.
+
+🚀 **9+ years** building large-scale projects  
+🎯 Expert in modern web architectures  
+🤖 AI integration specialist  
+☁️ Cloud & DevOps expertise  
+
+**Tech Stack:** `Laravel` `Django` `NestJS` `React` `Vue` `OpenAI` `AWS` `Docker`://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
@@ -197,16 +205,7 @@ DevOps & Infrastructure:
   </div>
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-<div align="center">
-  <i>💡 "AI doesn't replace developers, it amplifies their creativity"</i>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+intelligent+solutions+together!;Ready+to+collaborate+from+México+🇲🇽" />
-</div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Desarrollador%20Full%20Stack%20e%20IA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=La%20IA%20me%20dio%20super%20poderes&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">

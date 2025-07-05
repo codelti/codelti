@@ -42,12 +42,8 @@ Con más de 9 años de experiencia construyendo aplicaciones web escalables y so
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass,laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch,mysql,postgresql,mongodb,redis,sqlite,docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=react,nuxt,vue,js,ts,html,css,tailwind,bootstrap,sass,laravel,php,python,django,flask,fastapi,nestjs,nodejs,tensorflow,pytorch,mysql,postgresql,mongodb,redis,sqlite,docker,aws,gcp,azure,kubernetes,jenkins,git,github,linux,nginx,vite,webpack,babel,elasticsearch,rabbitmq,postman,figma,photoshop,illustrator,firebase,supabase,prisma,sequelize,composer,npm,yarn,pnpm" />
   <br><br>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
 
 ## 🌟 Especializaciones Principales

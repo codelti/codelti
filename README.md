@@ -2,6 +2,16 @@
   <img src="./assets/developer-animation.gif" alt="Full Stack Developer Animation" width="100%" style="max-width: 800px;" />
 </div>
 
+<!-- 
+🎬 GIF personalizado requerido:
+- Nombre: developer-animation.gif
+- Ubicación: ./assets/
+- Dimensiones: 800x400px o 1000x500px
+- Duración: 3-8 segundos
+- Temática: Desarrollador, código, tecnologías (Laravel, Python, React, etc.)
+- Fuentes: Giphy, Canva, LottieFiles
+-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Laravel%20|%20Python%20|%20React%20|%20Vue%20|%20Nuxt&descAlignY=51&descAlign=62" />
 </div>

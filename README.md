@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20&height=300&section=header&text=La%20IA%20me%20dio%20super%20poderes&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,5,6,7&height=300&section=header&text=La%20IA%20me%20dio%20super%20poderes&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=PHP%20|%20Python%20|%20JavaScript%20|%20TypeScript%20|%20SQL&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
@@ -117,5 +117,5 @@ Llevo más de 9 años creando aplicaciones web que realmente funcionan y explora
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,4,5,6,7&height=100&section=footer" />
 </div>
